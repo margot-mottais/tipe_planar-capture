@@ -10,7 +10,7 @@ Ce dépôt est une archive de mon projet de TIPE réalisé en 2022-2023 en class
 │   ├── Mcot_23837.pdf
 │   └── presentation_23837.pdf
 ├── LICENSE
-└── README
+└── README.md
 ```
 
 Le répertoire `docs` contient les deux documents exigés par l'épreuve commune du TIPE (Travaux d'Initiative Personnelle Encadrés) en CPGE scientifique, à savoir la [diapositive de présentation du projet](/docs/presentation_23837.pdf), ainsi que le rapport de [Mise en Cohérence des Objectifs du TIPE (MCOT)](/docs/Mcot_23837.pdf).
